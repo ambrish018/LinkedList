@@ -1,2 +1,2 @@
 # LinkedList
-# This code demonstrate how create a linked list in swift
+# This code demonstrate how to create a linked list in swift
